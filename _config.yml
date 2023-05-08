@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Ropa en Conjunto    
+company_name: Ropa en Conjunto!    
 address_line: Via Ludovisi 39-45, Rome, 54267, Italy
 telephone_number: 55.39.56.31.18
 fax_number: 55.83.25.26.70
